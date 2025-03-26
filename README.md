@@ -1,6 +1,6 @@
 # Minecraft啟動器文檔
 
-[下載](https://github.com/ITG-tw/Minecraft-Manager/packages)  [Discord](https://discord.gg/wXDBQ4wET3)  [ITG-TW 官網](https://www.itg-tw.com)  [技術資料庫](https://www.itg-tw.com/%E8%B3%87%E6%96%99%E5%BA%AB/%E8%B3%87%E6%96%99%E5%BA%AB.html)  
+[下載](https://github.com/ITG-tw/Minecraft-Manager/releases)  [Discord](https://discord.gg/wXDBQ4wET3)  [ITG-TW 官網](https://www.itg-tw.com)  [技術資料庫](https://www.itg-tw.com/%E8%B3%87%E6%96%99%E5%BA%AB/%E8%B3%87%E6%96%99%E5%BA%AB.html)  
 ## 產品介紹
 Minecraft 伺服器快速啟動工具旨在簡化伺服器管理流程，提供一鍵啟動、設定修改、日誌查看等核心功能。無需繁瑣的安裝步驟，適合各類玩家與伺服器管理員使用。
 
